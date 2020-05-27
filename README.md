@@ -125,7 +125,6 @@ A List of Useful Resources to Learn Programming
 | [API Documentation Library](https://any-api.com/) |
 | [HTTP Status Code](https://httpstatuses.com/) |
 | [Browser Compatibility Lookup](https://caniuse.com/) |
-| [Browser Compatibility Lookup](https://caniuse.com/) |
 | [Developer Cheatsheets](https://devhints.io/) |
 | [Test your website's performance](https://web.dev/measure/) |
 | [Website Archive](https://web.archive.org/) |
