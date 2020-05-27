@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-    <img src="./images/programming.png" alt="Programming Banner">
+    <img src="./images/programming.png" width="600" height="600" alt="Programming Banner">
 </p>
 <h1 align="center">
 A List of Useful Resources to Learn Programming
