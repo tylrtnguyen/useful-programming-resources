@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-    <img src="./images/thong-logo.png" alt="Thong's Logo">
+    <img src="./images/programming.png" alt="Programming Banner">
 </p>
 <h1 align="center">
 A List of Useful Resources to Learn Programming
@@ -13,6 +13,7 @@ A List of Useful Resources to Learn Programming
 <p>
 <i>If you find any grammar mistakes in my writing, please let me know. I am always willing to learn and improve my writing skill.</i>
 </p>
+
 
 
 <!-- Main content -->
