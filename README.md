@@ -129,6 +129,7 @@ A List of Useful Resources to Learn Programming
 | [Test your website's performance](https://web.dev/measure/) |
 | [Website Archive](https://web.archive.org/) |
 | [Color Palette Selection](https://coolors.co/) |
+| [Icon Library](https://icongr.am/fontawesome/) |
 
 
 
