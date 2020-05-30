@@ -82,6 +82,7 @@ A List of Useful Resources to Learn Programming
 | [Balsamiq](https://balsamiq.com)                                       | Paid
 | [Interviewing.io](https://interviewing.io/)                            | Paid
 | [Author's Personal Experience](https://www.soberkoder.com/interview/?fbclid=IwAR3QqMVbRHSlx5pi_wTk-1RBzmKKRpeJJ7SUgjQRavkPT-Rt6W8g9Spdy9U)    | Free
+| [Repl.it A Collaborating Tool to Share Code](https://repl.it/) | Free 
 
 
 ## 5. Online Courses
@@ -130,6 +131,7 @@ A List of Useful Resources to Learn Programming
 | [Website Archive](https://web.archive.org/) |
 | [Color Palette Selection](https://coolors.co/) |
 | [Icon Library](https://icongr.am/fontawesome/) |
+[ [SVG Repo](https://svgrepo.com/) |
 
 
 
