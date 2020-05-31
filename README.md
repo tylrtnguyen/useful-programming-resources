@@ -117,7 +117,7 @@ A List of Useful Resources to Learn Programming
 | [Elements of Programming Interviews in Java](https://www.amazon.ca/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/ref=pd_bxgy_img_3/131-0255642-4587546?_encoding=UTF8&pd_rd_i=1517671272&pd_rd_r=ca318022-abcf-44a7-b735-65c0a452b03c&pd_rd_w=W6i2x&pd_rd_wg=g7WCF&pf_rd_p=62bc58f5-5a07-4a59-9b91-fe01cc96db2b&pf_rd_r=BR1V9WN6NPC7AFPXBJNY&psc=1&refRID=BR1V9WN6NPC7AFPXBJNY) |
 
 
-## Open-source alteratives to popular products
+## 7. Open-source alteratives to popular products
 | Popular products | Open-source Alternatives |
 | ---------------- | ------------------------ |
 | Shopify | [WooCommerce](https://woocommerce.com/), [PrestaShop](https://www.prestashop.com/en) |
