@@ -150,6 +150,7 @@ A List of Useful Resources to Learn Programming
 | [Color Palette Selection](https://coolors.co/) |
 | [Icon Library](https://icongr.am/fontawesome/) |
 | [SVG Repo](https://svgrepo.com/) |
+| [Tool to reduce image size](https://squoosh.app/) |
 
 
 
