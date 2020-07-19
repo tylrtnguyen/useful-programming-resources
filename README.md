@@ -134,8 +134,19 @@ A List of Useful Resources to Learn Programming
 | Google Drive/Dropbox | [NextCloud](https://nextcloud.com/) |
 | Wix | [GrapeJS](https://grapesjs.com/) |
 
+## 8. Free Vector Libraries
+| Platform |
+| ------------- |
+| [humaaans.com](https://humaaans.com) |
+| [freepik.com](https://freepik.com) |
+| [lukaszadam.com](https://lukaszadam.com) |
+| [undraw.co](https://undraw.co) |
+| [manypixels.co](https://manypixels.co) |
+| [drawkit.io](https://drawkit.io) |
+| [vecteezy.com](https://vecteeze.com) |
 
-## 8. Others
+
+## 9. Others
 
 | Other Resources |
 | --------------- |
