@@ -163,6 +163,7 @@ A List of Useful Resources to Learn Programming
 | [SVG Repo](https://svgrepo.com/) |
 | [Tool to reduce image size](https://squoosh.app/) |
 | [The Noun Project - Buy Custom Icon](https://thenounproject.com/) |
+| [Github Markdown Icon](https://gist.github.com/rxaviers/7360908) |
 
 
 
