@@ -164,6 +164,10 @@ A List of Useful Resources to Learn Programming
 | [Tool to reduce image size](https://squoosh.app/) |
 | [The Noun Project - Buy Custom Icon](https://thenounproject.com/) |
 | [Github Markdown Icon](https://gist.github.com/rxaviers/7360908) |
+| [Regex IDE](https://regex101.com/) |
+| [Screen to GIF](https://www.screentogif.com/) |
+| [Responsively](https://responsively.app/) |
+| [DevDocs](https://devdocs.io/) |
 
 
 
